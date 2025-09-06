@@ -52,19 +52,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=abdelelgendy&show_icons=true&hide_border=true"/>
-  <img height="165" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelelgendy&layout=compact&hide_border=true"/>
-</p>
-
----
 
 ### 📫 Get in touch
 - Email: **Elge8132@mylaurier.ca**  
 - LinkedIn: **/in/abdelrahman-elgendy-cs**
 
-<!-- Optional: Add a fun footer badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelelgendy&style=flat-square" alt="profile views"/>
-</p>
+
