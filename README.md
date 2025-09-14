@@ -72,17 +72,6 @@ Fully interactive BlackJack implementation with authentic casino rules, betting 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelelgendy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelelgendy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🎯 What I'm Working On
 - 🔭 Building more **React applications** with modern tech stacks
 - 🌱 Learning **TypeScript** and **Next.js** for enhanced development
