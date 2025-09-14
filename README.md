@@ -96,7 +96,7 @@ I'm always excited to discuss new opportunities, collaborate on projects, or jus
 
 - **Email**: [Elge8132@mylaurier.ca](mailto:Elge8132@mylaurier.ca)
 - **LinkedIn**: [/in/abdelrahman-elgendy-cs](https://www.linkedin.com/in/abdelrahman-elgendy-cs)
-- **Portfolio**: [View My Work](https://github.com/abdelelgendy) <!-- Replace with your portfolio URL when deployed -->
+- **Portfolio**: [View My Work](https://abdels-cs-portfolio.netlify.app/) 
 
 ---
 
