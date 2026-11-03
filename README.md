@@ -18,8 +18,11 @@ A B2B sales dialer: browser calling over Twilio WebRTC, caller-ID rotation drive
 **[Shortlist](https://github.com/abdelelgendy/Internship-app-tracker)** · Open source
 My own job-search copilot: finds postings from company job boards, scores fit, prepares applications for me to submit, tracks follow-ups, and runs interview practice. Local-first; my data never leaves my machine.
 
-**ryn-bot** · Applied machine learning
-A retrieval bot for a Discord community: sentence embeddings, ChromaDB, a similarity cutoff tuned for F1 with bootstrap resampling, and Whisper transcription of course videos. *Private; demos on my portfolio.*
+**Mentor Q&A Bot** · Applied machine learning
+A Discord bot that answers a community's questions using its mentor's past answers and course videos. It turns every question into a sentence embedding, finds the closest past answers with semantic search (ChromaDB), and declines when nothing is relevant enough instead of guessing. I tuned that "relevant enough" cutoff with F1 scoring and bootstrap resampling, and transcribed the course videos with Whisper so they could be searched too. *Private; demos on my portfolio.*
+
+**Trading Co-Pilot** · Python
+An assistant for a futures trader that watches the market every 15 minutes, flags trade setups, sizes each position from current volatility, and enforces daily loss limits with a circuit breaker, then sends alerts to a dashboard and Telegram. It never places orders: the trader decides. FastAPI, SQLite, a Next.js dashboard and 577 automated tests. *Private; demos on my portfolio.*
 
 Most of my recent work is client or private code, so my portfolio has small live demos of each project's core logic that you can try in the browser.
 
